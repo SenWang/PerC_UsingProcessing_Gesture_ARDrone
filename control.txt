@@ -1,0 +1,27 @@
+﻿參考文件
+
+控制手勢:
+Left swipe
+Right swipe
+Up swipe
+Down swipe
+Circle - Take off
+Peace - Landing
+
+控制方法:
+shift key	Takeoff
+ctrl key	Landing
+up arrow key	Move forward
+down arrow key	Move backward
+right arrow key	Move right
+left arrow key	Move left
+S key	Hovering
+U key	Move up
+D key	Move down
+L key	Turn left(CCW)
+R key	Turn right(CW)
+1 key	Horizontal camera view
+2 key	Horizontal camera view(main) + Vertical camera view(sub)
+3 key	Vertical camera view
+4 key	Vertical camera view(main) + Horizontal camera view(sub)
+5 key	Toggle camera
